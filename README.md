@@ -1,8 +1,9 @@
 
 
-## If you don't have the /.dotnet volume defined, you get the following error:  
+## If you don't have the /.dotnet volume defined, you get the following error:
 
 Listing 'HTTPS' certificates on 'CurrentUser\My'.
+
 '0' found matching the criteria.
 SUBJECT - THUMBPRINT - NOT BEFORE - EXPIRES - HAS PRIVATE KEY
 Checking certificates for validity.
